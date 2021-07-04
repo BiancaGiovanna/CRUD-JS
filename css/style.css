@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  outline: 0px; /*Para não colocar aquelas linhas clarinhas em volta do componente*/
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  list-style: none;
+}
+
+#section-buttons{
+  margin:20px;
+}
+#section-input{
+  margin: 0 50px;
+}
+#info{
+  width: 900px;
+  display: flex;
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  margin-top: 50px;
+}
+table{
+  margin-right: 20px;
+  width: 300px;
+}
+th{
+  background-color: #a1a1a1;
+}
+td{
+  text-align: center;
+  height:40px;
+  background-color: #c7c7c7;
+  
+}
+button{
+  width: 80px;
+
+  height:25px;
+}
